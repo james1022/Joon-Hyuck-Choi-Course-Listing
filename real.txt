@@ -1,0 +1,18 @@
+EN.210.111 4.0 Spanish Elements I
+EN.100.103 3.0 Hist Occ Civ:Europe/Wider World
+EN.110.109 4.0 Calculus II
+EN.190.213 3.0 International Politics
+EN.220.105 3.0 Fiction/Poetry Writing I
+EN.210.112 4.0 Spanish Elements II
+EN.110.202 4.0 Calculus III
+EN.110.302 4.0 Diff Equations/Applic
+EN.171.101 4.0 Gen Phys:Phys Sci Maj I
+EN.173.111 1.0 General Physics Lab I
+EN.171.102 4.0 Gen Phys:Phys Sci Maj II
+EN.173.112 1.0 General Physics Lab II
+EN.550.171 4.0 Discrete Mathematics
+EN.600.105 1.0 M&Ms: Freshman Exp
+EN.600.107 3.0 Intro Programming in Java
+EN.600.108 1.0 Intro Programming Lab
+EN.660.105 4.0 Introduction to Business
+
